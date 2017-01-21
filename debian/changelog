@@ -1,0 +1,26 @@
+ros-indigo-roch-robot (1.0.7-0saucy) saucy; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Fri, 20 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-robot (1.0.6-0saucy) saucy; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-robot (0.1.1-0saucy) saucy; urgency=high
+
+  * add roch_safty_controller
+  * add roch_sensorpc
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 23 Nov 2016 16:00:00 -0000
+
+ros-indigo-roch-robot (0.0.1-0saucy) saucy; urgency=high
+
+  * Metapackages for robot and desktop variants.
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 15 Sep 2016 16:00:00 -0000
+
+
