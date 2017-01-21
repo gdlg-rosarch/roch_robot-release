@@ -1,0 +1,12 @@
+Source: ros-indigo-roch-msgs
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-message-generation, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs
+Homepage: http://ros.org/wiki/roch_msgs
+Standards-Version: 3.9.2
+
+Package: ros-indigo-roch-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib-msgs, ros-indigo-message-runtime, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs
+Description: Messages, serivices and actions for SawYer roch
