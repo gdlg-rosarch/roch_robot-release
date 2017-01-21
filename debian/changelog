@@ -1,0 +1,29 @@
+ros-indigo-roch-safety-controller (1.0.7-0saucy) saucy; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Fri, 20 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-safety-controller (1.0.6-0saucy) saucy; urgency=high
+
+
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-safety-controller (0.0.2-0saucy) saucy; urgency=high
+
+  * Add ult/psd/cliff sensors data.
+  * Automatic obstacle avoidance when sensors data less than given.
+  * Contributors: Carl
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Thu, 29 Dec 2016 16:00:00 -0000
+
+ros-indigo-roch-safety-controller (0.0.1-0saucy) saucy; urgency=high
+
+  *Refrence Yujinrobot' kobuki.
+  *Do own package.
+  * Contributors: Carl
+
+ -- Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>  Tue, 29 Nov 2016 16:00:00 -0000
+
+
