@@ -1,0 +1,83 @@
+ros-indigo-roch-ftdi (1.0.11-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 06 Feb 2017 16:00:00 -0000
+
+ros-indigo-roch-ftdi (1.0.10-0trusty) trusty; urgency=high
+
+  * Modify README.md
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 22 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-ftdi (1.0.9-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-ftdi (1.0.8-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-ftdi (1.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.6.1-0trusty) trusty; urgency=high
+
+  * remove kobuki_ros kobuki_nodelet libaries export in catkin_package closes #16 <https://github.com/yujinrobot/kobuki_core/issues/16>
+  * Contributors: Jihoon Lee
+
+ -- Carl <wzhang@softrobtech.com>  Tue, 26 May 2015 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.6.0-0trusty) trusty; urgency=high
+
+  * Fix compilation.
+    - fix the names of the pkg-config libraries of libusb and libftdi. I checked on Ubuntu and OS X.
+    - ftdi-eeprom is not a library and has no pkg-config file.
+  * Update the readme in kobuki_ftdi
+  * Create README.md
+  * kobuki_ftdi : Updated doxygen document.
+  * Contributors: Jihoon Lee, Nikolaus Demmel, Younghun Ju
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 03 Aug 2014 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 05 Sep 2013 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Fri, 30 Aug 2013 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.5.1-0trusty) trusty; urgency=high
+
+  * Updated license info.
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 29 Aug 2013 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.5.0-0trusty) trusty; urgency=high
+
+  * Added extra url info on all packages.
+  * Updated old rnd email address.
+  * Fix URL to the previous changelog wiki.
+  * Changelogs at package level.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 28 Aug 2013 16:00:00 -0000
+
+ros-indigo-roch-ftdi (0.4.0-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 08 Aug 2013 16:00:00 -0000
+
+
