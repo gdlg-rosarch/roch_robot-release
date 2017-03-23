@@ -1,0 +1,64 @@
+ros-indigo-roch-base (1.0.13-0trusty) trusty; urgency=high
+
+  * Fixed odom rotation which combine encoders and imu, only enconders great errors.
+  * Add missing dependcies: nodelet.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.12-0trusty) trusty; urgency=high
+
+  * Add Roch image in image folder.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 15 Feb 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.11-0trusty) trusty; urgency=high
+
+  * Add install executable of test application.
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 06 Feb 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.10-0trusty) trusty; urgency=high
+
+  * Add author Mike Purvis and Paul Bovbel of Clearpath.
+  * Modify BSD lisence.
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 22 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.9-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.8-0trusty) trusty; urgency=high
+
+  * fixed bug that will cause can not compile without angles package in rosdistro.
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.7-0trusty) trusty; urgency=high
+
+  * fixed bug that will cause can not compile without tf package.
+
+ -- Carl <wzhang@softrobtech.com>  Fri, 20 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-base (1.0.6-0trusty) trusty; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-indigo-roch-base (0.0.2-0trusty) trusty; urgency=high
+
+  * add events( cliff, ult, psd and wheel)
+  * add core sensors data for pointcloud
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 24 Nov 2016 16:00:00 -0000
+
+ros-indigo-roch-base (0.0.1-0trusty) trusty; urgency=high
+
+  * create base node for roch base on husky
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 30 Oct 2016 16:00:00 -0000
+
+
