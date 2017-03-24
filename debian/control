@@ -1,0 +1,12 @@
+Source: ros-kinetic-roch-capabilities
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/roch_capabilities
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-roch-capabilities
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-nodelet, ros-kinetic-roch-base, ros-kinetic-roch-bringup, ros-kinetic-rocon-app-manager, ros-kinetic-rocon-apps, ros-kinetic-std-capabilities
+Description: Capabilities for Roch
