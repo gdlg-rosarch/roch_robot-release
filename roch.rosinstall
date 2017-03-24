@@ -1,0 +1,35 @@
+##############################################################################
+#
+# Source installation instructions at:
+#
+# http://www.ros.org/wiki/Robots/Roch
+#
+##############################################################################
+
+
+# Roch stacks
+
+- git:
+    uri: https://github.com/SawYer-Robotics/roch.git
+    local-name: roch
+    version: indigo
+
+- git:
+    uri: https://github.com/SawYer-Robotics/roch_simulator.git
+    local-name: roch_simulator
+    version: indigo
+
+- git:
+    uri: https://github.com/SawYer-Robotics/roch_viz.git
+    local-name: roch_viz
+    version: indigo
+
+- git:
+    uri: https://github.com/roch/roch_robot.git
+    local-name: roch_robot
+    version: indigo
+
+- git:
+    uri: https://github.com/roch/roch_concert.git
+    local-name: roch_concert
+    version: indigo
