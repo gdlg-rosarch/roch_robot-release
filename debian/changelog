@@ -1,0 +1,68 @@
+ros-kinetic-roch-robot (2.0.13-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.13-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.12-1wily) wily; urgency=high
+
+  * Add roch_capabilities.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 15 Feb 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.11-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 06 Feb 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.10-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 22 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.9-1wily) wily; urgency=high
+
+  * Add information of websites.
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.8-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.7-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Fri, 20 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (1.0.6-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-robot (0.1.1-1wily) wily; urgency=high
+
+  * add roch_safty_controller
+  * add roch_sensorpc
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 23 Nov 2016 16:00:00 -0000
+
+ros-kinetic-roch-robot (0.0.1-1wily) wily; urgency=high
+
+  * Metapackages for robot and desktop variants.
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 15 Sep 2016 16:00:00 -0000
+
+
