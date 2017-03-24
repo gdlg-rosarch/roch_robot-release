@@ -1,0 +1,72 @@
+ros-kinetic-roch-safety-controller (2.0.13-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.13-1wily) wily; urgency=high
+
+  * Modified output command to twist_mux.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.12-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 15 Feb 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.11-1wily) wily; urgency=high
+
+  * Modify website.
+  * Add application of roch_safety_controoler used in install.
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 06 Feb 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.10-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sun, 22 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.9-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.8-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Sat, 21 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.7-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Fri, 20 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (1.0.6-1wily) wily; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Mon, 16 Jan 2017 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (0.0.2-1wily) wily; urgency=high
+
+  * Add ult/psd/cliff sensors data.
+  * Automatic obstacle avoidance when sensors data less than given.
+  * Contributors: Carl
+
+ -- Carl <wzhang@softrobtech.com>  Thu, 29 Dec 2016 16:00:00 -0000
+
+ros-kinetic-roch-safety-controller (0.0.1-1wily) wily; urgency=high
+
+  *Refrence Yujinrobot' kobuki.
+  *Do own package.
+  * Contributors: Carl
+
+ -- Carl <wzhang@softrobtech.com>  Tue, 29 Nov 2016 16:00:00 -0000
+
+
