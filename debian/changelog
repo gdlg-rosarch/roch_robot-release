@@ -1,0 +1,20 @@
+ros-kinetic-roch-capabilities (2.0.13-1xenial) xenial; urgency=high
+
+
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-capabilities (1.0.13-1xenial) xenial; urgency=high
+
+  * Modified: run depend of roch_capabilities.
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 22 Mar 2017 16:00:00 -0000
+
+ros-kinetic-roch-capabilities (1.0.12-1xenial) xenial; urgency=high
+
+  * Create.
+  * Contributors: Carl
+
+ -- Carl <wzhang@softrobtech.com>  Wed, 15 Feb 2017 16:00:00 -0000
+
+
