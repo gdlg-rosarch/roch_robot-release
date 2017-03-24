@@ -1,0 +1,13 @@
+Source: ros-kinetic-roch-ftdi
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ftdi-eeprom, libftdi-dev, libusb-dev, ros-kinetic-catkin, ros-kinetic-ecl-command-line
+Homepage: http://ros.org/wiki/roch_ftdi
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-roch-ftdi
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ftdi-eeprom, libftdi-dev, libusb-dev, ros-kinetic-ecl-command-line
+Description: Utilities for flashing and enabling roch's USB connection.
+ This package contains tools for flashing the roch's FTDI chip (usually done at the factory). The special firmware for the FTDI chip (USB to serial converter) enables it to appear as /dev/roch on the user's PC.
