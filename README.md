@@ -1,3 +1,35 @@
+## roch_robot (indigo) - 1.0.13-1
+
+The packages in the `roch_robot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo roch_robot` on `Thu, 30 Mar 2017 01:54:33 -0000`
+
+These packages were released:
+- `roch_base`
+- `roch_capabilities`
+- `roch_control`
+- `roch_description`
+- `roch_ftdi`
+- `roch_msgs`
+- `roch_robot`
+- `roch_safety_controller`
+- `roch_sensorpc`
+
+Version of package(s) in repository `roch_robot`:
+
+- upstream repository: https://github.com/SawYer-Robotics/roch_robot.git
+- release repository: https://github.com/SawYerRobotics-release/roch_robot-release.git
+- rosdistro version: `1.0.11-0`
+- old version: `1.0.13-0`
+- new version: `1.0.13-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## roch_robot (kinetic) - 2.0.13-1
 
 The packages in the `roch_robot` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic roch_robot --override-release-repository-url https://github.com/SawYerRobotics-release/roch_robot-release.git` on `Fri, 24 Mar 2017 09:41:05 -0000`
