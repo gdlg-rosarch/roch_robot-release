@@ -1,0 +1,13 @@
+Source: ros-kinetic-roch-safety-controller
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-ecl-threads, ros-kinetic-geometry-msgs, ros-kinetic-roch-msgs, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-yocs-controllers
+Homepage: http://wiki.ros.org/roch_safety_controller
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-roch-safety-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-ecl-threads, ros-kinetic-geometry-msgs, ros-kinetic-roch-msgs, ros-kinetic-roscpp, ros-kinetic-std-msgs, ros-kinetic-yocs-controllers
+Description: A controller ensuring the safe operation of roch.
+ The SafetyController keeps track of ult, psd and cliff events. In case of the first three, roch is commanded to move back. This controller can be enabled/disabled. The safety states (cliff, psd and ult etc.) can be reset. WARNING: Dangerous! Refrence with yujinrobot' kobuki.
