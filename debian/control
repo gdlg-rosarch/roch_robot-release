@@ -1,0 +1,13 @@
+Source: ros-indigo-roch-safety-controller
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-ecl-threads, ros-indigo-geometry-msgs, ros-indigo-roch-msgs, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-yocs-controllers
+Homepage: http://wiki.ros.org/roch_safety_controller
+Standards-Version: 3.9.2
+
+Package: ros-indigo-roch-safety-controller
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-ecl-threads, ros-indigo-geometry-msgs, ros-indigo-roch-msgs, ros-indigo-roscpp, ros-indigo-std-msgs, ros-indigo-yocs-controllers
+Description: A controller ensuring the safe operation of roch.
+ The SafetyController keeps track of ult, psd and cliff events. In case of the first three, roch is commanded to move back. This controller can be enabled/disabled. The safety states (cliff, psd and ult etc.) can be reset. WARNING: Dangerous! Refrence with yujinrobot' kobuki.
