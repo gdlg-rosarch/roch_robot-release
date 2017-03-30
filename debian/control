@@ -1,0 +1,12 @@
+Source: ros-indigo-roch-capabilities
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/roch_capabilities
+Standards-Version: 3.9.2
+
+Package: ros-indigo-roch-capabilities
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-nodelet, ros-indigo-roch-base, ros-indigo-roch-navigation, ros-indigo-rocon-app-manager, ros-indigo-rocon-apps, ros-indigo-std-capabilities
+Description: Capabilities for Roch
