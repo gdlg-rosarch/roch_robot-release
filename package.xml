@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>roch_control</name>
-  <version>1.0.13</version>
+  <version>1.0.14</version>
 
   <description>SawYer roch controller configurations</description>
 
@@ -34,7 +34,7 @@
   <run_depend>controller_manager</run_depend>
   <run_depend>teleop_twist_joy</run_depend>
   <run_depend>twist_mux</run_depend>
-  <run_depend>create_node</run_depend>
+  <run_depend>imu_sensor_controller</run_depend>
 
 
   <export>
