@@ -1,0 +1,12 @@
+Source: ros-kinetic-roch-control
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-joy, ros-kinetic-roscpp, ros-kinetic-roslaunch
+Homepage: http://wiki.ros.org/roch_control
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-roch-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-controller-manager, ros-kinetic-create-node, ros-kinetic-diff-drive-controller, ros-kinetic-geometry-msgs, ros-kinetic-interactive-marker-twist-server, ros-kinetic-joint-state-controller, ros-kinetic-joint-trajectory-controller, ros-kinetic-joy, ros-kinetic-robot-localization, ros-kinetic-roscpp, ros-kinetic-rostopic, ros-kinetic-teleop-twist-joy, ros-kinetic-twist-mux
+Description: SawYer roch controller configurations
