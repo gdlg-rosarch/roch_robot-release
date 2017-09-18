@@ -1,0 +1,12 @@
+Source: ros-kinetic-roch-robot
+Section: misc
+Priority: extra
+Maintainer: Carl <wzhang@softrobtech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://wiki.ros.org/roch_robot
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-roch-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-roch-base, ros-kinetic-roch-bringup, ros-kinetic-roch-capabilities, ros-kinetic-roch-control, ros-kinetic-roch-description, ros-kinetic-roch-ftdi, ros-kinetic-roch-msgs, ros-kinetic-roch-safety-controller, ros-kinetic-roch-sensorpc
+Description: Metapackage for SawYer roch robot software
